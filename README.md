@@ -16,6 +16,10 @@ Using Film Feed users can review movies on Solana (Devnet). Reviews are stored o
 
 ![App Screenshot 1](https://i.imgur.com/lTKJv5r.png)
 
+## Environment Variables
+
+This project uses `NEXT_PUBLIC_MOVIE_REVIEW_PROGRAM_ID` env variable . You can find .env file with the value provided for this env variable.
+
 
 ## Feedback
 
