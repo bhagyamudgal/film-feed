@@ -1,6 +1,6 @@
 # Film Feed
 
-Using Film Feed users can review movies on Solana (Devnet). Reviews are stored on chain and can be viewed by anyone.
+Using Film Feed users can review movies on Solana (Devnet). Reviews are stored on chain and can be viewed by anyone. It works on devnet so has dummy data filled by user for testing as well.
 
 **Link to App -** https://bm-film-feed.netlify.app/
 
@@ -9,7 +9,7 @@ Using Film Feed users can review movies on Solana (Devnet). Reviews are stored o
 
 ## Tech Stack
 
-**Front-End:** Next.js, Typescript, @solana/web3.js, @solana/wallet-adapter, @project-serum/borsh
+**Front-End:** Next.js, Typescript, Tailwind CSS, @solana/web3.js, @solana/wallet-adapter, @project-serum/borsh
 
 
 ## Screenshots
