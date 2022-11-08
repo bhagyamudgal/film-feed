@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="footer">
       <p>Developed By</p>
       <a
-        href="http://www.bhagyamudgal.me"
+        href="https://www.bhagyamudgal.com"
         target="_blank"
         rel="noopener noreferrer"
       >
