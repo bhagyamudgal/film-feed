@@ -4,7 +4,7 @@ Using Film Feed users can review movies on Solana (Devnet). Reviews are stored o
 
 **Link to App -** https://bm-film-feed.netlify.app/
 
-**My Portfolio Website -** https://www.bhagyamudgal.me/
+**My Portfolio Website -** https://www.bhagyamudgal.com/
 
 
 ## Tech Stack
